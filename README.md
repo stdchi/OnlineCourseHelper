@@ -2,6 +2,9 @@
 在线网课助手; 网课; 超星助手;
 author : stdchi
 version : V1.0.0
+![效果](https://github.com/stdchi/OnlineCourseHelper/blob/master/pic/1.jpg?raw=true)
+
+
 ## 目录结构
 
 ```
@@ -29,5 +32,6 @@ version : V1.0.0
 2. 回答问题Dev会即使更新
 
 ## 声明
-请勿使用脚本参与不正规用途
-发现BUG，或者需要新的功能可以联系作者
+1. 请勿使用脚本参与不正规用途
+2. 发现BUG，或者需要新的功能可以联系作者
+3. 请勿过度使用，造成不必要的影响
