@@ -37,7 +37,7 @@ time_start = getTimeStampMilliSecond()
 COOK = getCookies()
 
 # step1 获取章节信息
-detail,default = getPartInfo('11643538','201714099','126374609',COOK)
+detail,default = getPartInfo('11643538','201714099','126374580',COOK)
 
 # step2 获取任务信息
 task = detail[0] # 测试第一个任务
@@ -83,4 +83,4 @@ except:
     raise Exception("失败")
 
 time_end = getTimeStampMilliSecond()
-print("消耗时间:{} 毫秒".format((time_end - time_start)/1000))
+print("消耗时间:{} 秒".format((time_end - time_start)/1000))
