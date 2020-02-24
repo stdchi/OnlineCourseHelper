@@ -3,8 +3,8 @@
 
 ## 目录结构
 
+```
 │  main.py
-
 │  test.py
 │
 ├─ChaoXing
@@ -19,6 +19,7 @@
 │  │  __init__.py
 │  
 └
+```
 ## 使用方式
 1. 使用方法见test.py
 2. 修改 ./ChaoXing/login.py 中的getCookies方法
