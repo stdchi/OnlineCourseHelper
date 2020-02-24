@@ -4,6 +4,8 @@ author : stdchi
 version : V1.0.0
 ![效果](https://github.com/stdchi/OnlineCourseHelper/blob/master/pic/1.jpg?raw=true)
 
+作者博客：https://blog.csdn.net/shipsail
+作者github：https://github.com/stdchi
 
 ## 目录结构
 
