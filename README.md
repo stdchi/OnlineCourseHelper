@@ -1,11 +1,19 @@
 # OnlineCourseHelper
 在线网课助手; 网课; 超星助手;
+
 author : stdchi
+
 version : V1.0.0
 ![效果](https://github.com/stdchi/OnlineCourseHelper/blob/master/pic/1.jpg?raw=true)
 
 作者博客：https://blog.csdn.net/shipsail
+
 作者github：https://github.com/stdchi
+
+
+## License
+[GPL](https://opensource.org/licenses/GPL-3.0)
+程序可随意修改，但不允许商用
 
 ## 目录结构
 
