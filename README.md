@@ -13,7 +13,8 @@ version : V1.0.0
 
 ## License
 [GPL](https://opensource.org/licenses/GPL-3.0)
-程序可随意修改，但不允许商用
+
+请仔细阅读
 
 ## 目录结构
 
@@ -41,7 +42,13 @@ version : V1.0.0
 1. 不用回答问题可以完成任务
 2. 回答问题Dev会即使更新
 
+## 联系我们
+![效果](https://github.com/stdchi/OnlineCourseHelper/blob/master/pic/2.jpg?raw=true)
+
+
 ## 声明
 1. 请勿使用脚本参与不正规用途
 2. 发现BUG，或者需要新的功能可以联系作者
 3. 请勿过度使用，造成不必要的影响
+
+
